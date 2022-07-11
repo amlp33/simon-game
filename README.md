@@ -1,10 +1,10 @@
 # simon-game 
 --- 
-!["image 1"]("./images/1.png")
+![image desk](./images/1.png)
 ---
-!["image 2"]("./images/2.png")
+![image desk_](./images/2.png)
 ---
-!["image 3"]("./images/3.png")
+![image mobile](./images/3.png)
 ---
 
 
