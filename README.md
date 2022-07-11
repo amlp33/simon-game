@@ -1,4 +1,4 @@
- ==[Play the game](https://simon-game-online.netlify.app/)==
+[Play the game](https://simon-game-online.netlify.app/)
 ---
 # Simon
 --- 
@@ -13,7 +13,7 @@ Simon - short-term memory skill based game invented by ==_Ralph H. Baer_ and _Ho
 
 ## How it works ?.
  There are four blocks, usually ( in Red, Green, Blue, Yellow colors ).
- When game starts one of the random block lites up, players clicks on it, after a second another random block lites up, here player have to click the previous block or blocks first then the subsequent block and so on until the player gets wrong.
+ When game starts one of the random block lites up, players clicks on it, after a second another random block lites up, here player have to click the previous block first then the subsequent block and so on until the player gets wrong.
 ## How to play simon ?.
 - Start the game by clicking start button
 - Click on the block which lites up 
