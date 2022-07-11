@@ -1,4 +1,4 @@
-[Play the game](https://simon-game-online.netlify.app/)
+<mark>_[Play the game](https://simon-game-online.netlify.app/)_</mark>
 ---
 # Simon
 --- 
@@ -9,7 +9,7 @@
 ![image mobile](./images/3.png)  &nbsp; &nbsp;![image mobile_](./images/4.png)
 ---
 ## What is simon ?. 
-Simon - short-term memory skill based game invented by ==_Ralph H. Baer_ and _Howard J. Morrison_==.
+Simon - short-term memory skill based game invented by <mark>_Ralph H. Baer_ and _Howard J. Morrison_</mark>.
 
 ## How it works ?.
  There are four blocks, usually ( in Red, Green, Blue, Yellow colors ).
